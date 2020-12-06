@@ -2,7 +2,9 @@
 
 Awesome resources for C++ beginner :tada:
 
-[toc]
+## Tutorial
+
+- [C++ by The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) Youtube videos for learning C++
 
 ## Reference
 
@@ -15,8 +17,12 @@ Awesome resources for C++ beginner :tada:
 ## Memory
 
 - [Bjarne Stroustrup - The Essence of C++ - YouTube](https://www.youtube.com/watch?v=86xWVb4XIyE&t=4678s)
-- [C++ 内存管理（超长，例子很详细，排版很好） - findumars - 博客园 (cnblogs.com)](https://www.cnblogs.com/findumars/p/5929831.html?utm_source=itdadao&utm_medium=referral)
+- [C++ 内存管理 - 博客园 (cnblogs.com)](https://www.cnblogs.com/findumars/p/5929831.html?utm_source=itdadao&utm_medium=referral)
 - [What Every Programmer Should Know About Memory (freebsd.org)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
+## Code Style
+
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ## CMake
 
