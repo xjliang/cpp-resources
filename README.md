@@ -4,14 +4,29 @@ Awesome resources for C++ beginner :tada:
 
 ## Tutorial
 
-- [C++ by The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) Youtube videos for learning C++
+- [C++ videos by The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) 
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
+## Book List
+
+- [Amazon Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)
+
+## Courses
+
+- [Stanford Engineering Everywhere | CS107 - Programming Paradigms](https://see.stanford.edu/Course/CS107)
+
+## Videos
+
+- [C++ STL 与泛型编程高级 - 侯捷](https://www.bilibili.com/video/BV1Yb411p7UK)
+- [ C++ 内存管理 - 侯捷](https://www.bilibili.com/video/BV1Kb411B7N8)
+- [C++11 新特性 - 侯捷](https://www.bilibili.com/video/BV1p4411v7Dh)
+- [C++ STL 体系结构与内核分析 - 侯捷](https://www.bilibili.com/video/BV1db411q7B8)
 
 ## Reference
 
 - [cppreference.com](https://en.cppreference.com/w/)
 
 - [cplusplus.com - The C++ Resources Network](https://www.cplusplus.com/)
-
 - [C++ standard library header files | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-header-files?view=msvc-160)
 
 ## Memory
